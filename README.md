@@ -1,3 +1,14 @@
+# Objectives
+
+In this project, we aim to determine how variable the weather can be in the summer and winter using key aspects of Oahu's seasonal weather data. This analysis helps to investors to ensure that there are enough customers between seasons to sustain the business throughout the year.
+ 
+# Methods 
+
+1. We determine Key statistical data about the month of June and month of December, and  
+2. We compared our findings between the month of June and December.
+3. Based on the results we made a few recommendations for further analysis.
+ 
+
 # Challenge Overview
 # Surf's Up Data Comparison
 W. Avy likes your analysis, but he feels there is one piece of information missing: seasonal data. He’s asked you to gather data on the seasons of Oahu and determine whether the seasons could affect the surf and ice cream shop business. Specifically, are there certain times of the year when business might be slower, or the type of customer could be different?
