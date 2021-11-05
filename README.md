@@ -39,8 +39,10 @@ Max | 6.42 | 83.0 |
 
 A typical plot of precipitation for June 2016 and Dec 2016 are indicated below:
 
+# June 2016 
 ![](June2016.png)
 
+# December 2016
 ![](Dec2016.png)
 
 # Analysis
