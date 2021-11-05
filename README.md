@@ -37,6 +37,12 @@ Mean| 0.21 | 71.0 |
 Min | 0.00 | 56.0 |
 Max | 6.42 | 83.0 |
 
+A typical plot of precipitation for June 2016 and Dec 2016 are indicated below:
+
+![](June2016.png)
+
+![](Dec2016.png)
+
 # Analysis
 
 The mean temperature between June (summer) and December (winter) is just 3 degrees. This implies that Oahu has a warm average age temperature year round. Warm weather means more ice-cream. While the lowest temperatures in December are 56, the mean precipitation is just .21 inches; it will be pretty dry most of the time, which allows for good ice-cream and surfing weather. Oahu is a rainforest, so some rain is always expected- the difference between maximum rain between June and December is 2 inches. However both moths have a small mean, which means there will be days of high rainfall, followed by many days of little to no rain.
